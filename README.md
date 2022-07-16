@@ -1,4 +1,4 @@
-## :+1: Hi there  	:raised_hand_with_fingers_splayed:
+## :+1: :raised_hand_with_fingers_splayed: Hi there  	
 
 ## :desktop_computer:	 My skills  :desktop_computer:	
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
