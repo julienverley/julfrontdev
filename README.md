@@ -8,6 +8,26 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
+My projects live on GitHub pages : 
+
+https://julfrontdev.github.io/JulienVerley_2_10112021/ 
+
+https://julfrontdev.github.io/JulienVerley_3_10112021/index.html 
+
+https://julfrontdev.github.io/julien_verley_4_30092021/ 
+
+https://julfrontdev.github.io/julien_verley_6_30092021/index.html 
+
+https://julfrontdev.github.io/julien_verley_7_30092021/ 
+
+https://julfrontdev.github.io/julien_verley_11_062022/ 
+
+https://julfrontdev.github.io/julien_verley_12_062022/ 
+
+https://julfrontdev.github.io/julien_verley_13_01082022/
+
+https://julfrontdev.github.io/julien_verley_14_092022/ 
+
 
 <!--
 **julfrontdev/julfrontdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
